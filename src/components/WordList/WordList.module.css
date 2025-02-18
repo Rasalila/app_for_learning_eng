@@ -1,20 +1,20 @@
 .table {
   margin: 50px 0 50px 0;
   max-width: 900px;
-  box-shadow: 0 0px 20px rgba(80, 168, 240, 0.855);
+  box-shadow: 0 0px 20px rgb(122, 154, 109);
 }
 
 th {
-  background-color: lightskyblue;
+  background-color:rgb(172, 219, 154);
   text-align: center;
   border: none;
-  border: 1px solid cadetblue;
+  border: 1px solid rgb(122, 154, 109);
   padding: 10px;
 }
 
 td {
   text-align: center;
-  border: 1px solid cadetblue;
+  border: 1px solid rgb(122, 154, 109);
   text-align: center;
   padding: 10px;
 }
@@ -29,11 +29,11 @@ button svg {
 }
 
 button:hover svg {
-  box-shadow: 0 0px 20px rgba(99, 15, 130, 0.855);
+  box-shadow: 0 0px 20px rgba(119, 7, 39, 0.7);
 }
 
 .h1 {
-  color: #F08080;
+  color: #770727;
 }
 
 .error {

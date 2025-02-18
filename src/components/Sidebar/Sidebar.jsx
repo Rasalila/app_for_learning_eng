@@ -5,7 +5,7 @@ export default function Sidebar() {
   return (
     <aside className={styles.sidebar}>
       <Link to="/" className={styles.logo}>
-        <img src="../src/assets/images/speak.png" alt="speak" />
+        <img src="../src/assets/images/3288524.jpg" alt="speak" />
         How to say...?
       </Link>
       <nav className={styles.navigation}>

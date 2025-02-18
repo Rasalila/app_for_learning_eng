@@ -1,5 +1,5 @@
 .h1 {
-  color: #4d0889;;
+  color: #770727;
 }
 
 .h3 {
@@ -15,7 +15,7 @@
 
 .Card {
   display: flex;
-  background-color: lightskyblue;
+  background-color: rgb(248, 242, 237);
   align-items: center;
   flex-direction: column;
   padding: 20px;
@@ -23,7 +23,7 @@
   width: 200px;
   height: 250px;
   border-radius: 20px;
-  box-shadow: 0 0px 20px rgba(80, 168, 240, 0.855);
+  box-shadow: 0 0px 20px rgba(167, 139, 94, 0.855);
 }
 
 .buttonCard svg {
@@ -33,7 +33,7 @@
 }
 
 .buttonCard:hover svg {
-  box-shadow: 0 0px 30px rgba(80, 168, 240, 0.926);
+  box-shadow: 0 0px 30px rgb(122, 154, 109);
 }
 
 .btnCard {
@@ -44,5 +44,5 @@
 }
 
 .btnCard:hover {
-  box-shadow: 0 0px 20px rgba(240, 128, 128, 0.800);
+  box-shadow: 0 0px 20px rgba(119, 7, 39, 0.7);
 }
