@@ -1,0 +1,18 @@
+.main__title {
+  font-weight: 800;
+  font-size: 35px;
+  color: #4f4e4f;
+  padding-top: 25px;
+  padding-left: 40px;
+}
+
+.main__items {
+  margin: 20px 56px 73px 55px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.main__items .block {
+  max-width: 349px;
+}

@@ -1,0 +1,49 @@
+.table {
+  margin: 50px 0 50px 0;
+  max-width: 900px;
+  box-shadow: 0 0px 20px rgba(80, 168, 240, 0.855);
+}
+
+th {
+  background-color: lightskyblue;
+  text-align: center;
+  border: none;
+  border: 1px solid cadetblue;
+  padding: 10px;
+}
+
+td {
+  text-align: center;
+  border: 1px solid cadetblue;
+  text-align: center;
+  padding: 10px;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}
+
+button svg {
+  fill: rgb(87, 87, 87);
+}
+
+button:hover svg {
+  box-shadow: 0 0px 20px rgba(99, 15, 130, 0.855);
+}
+
+.h1 {
+  color: #F08080;
+}
+
+.error {
+  border: 1px solid rgb(186, 59, 59);
+}
+
+.svgDis {
+  fill: #afafb4;
+}
+
+.btnDis {
+  cursor: no-drop;
+}
