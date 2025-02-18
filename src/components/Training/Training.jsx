@@ -26,7 +26,7 @@ const Training = () => {
       }
     };
     fetchWords();
-  }, []);
+  },);
 
   const setNextOptions = (words) => {
     // корректное слово
