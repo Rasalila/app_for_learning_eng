@@ -47,18 +47,7 @@
 }
 
 .cardRusBtn:hover {
-  box-shadow: 0 0px 20px rgb(109, 138, 154);
-}
-.cardRusBtn {
-  background-color: rgb(50, 205, 195);
-  padding: 16px 0;
-  border: 0;
-  border-radius: 20px;
-  width: 200px;
-}
-
-.cardRusBtn:hover {
-  box-shadow: 0 0px 20px rgba(149, 199, 234, 0.868);
+  box-shadow: 0 0px 20px rgb(122, 154, 109);
 }
 
 /* для анимации загрузки */
