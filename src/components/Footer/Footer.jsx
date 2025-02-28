@@ -4,10 +4,10 @@ export default function Footer() {
   return (
     <div className={styles.Footer}>
       <div className={styles.footer__logo}>
-        <img src="../src/assets/images/speak.png" alt="speak" />
+        <img src="../src/assets/images/3288524.jpg" alt="speak" />
         How to say...?
       </div>
-      <span className={styles.footer__text}>Created by ElenLen ⓒ 2025</span>
+      <span className={styles.footer__text}>Created by Rasalila ⓒ 2025</span>
     </div>
   )
 }

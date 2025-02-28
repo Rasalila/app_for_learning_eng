@@ -10,12 +10,12 @@
   margin-right: 30px;
   font-weight: bold;
   font-size: 20px;
-  color: #467df2;
+  color: #000000;
   display: flex;
   align-items: center;
 }
 
 .footer__logo img {
-  width: 30px;
+  width: 80px;
   margin-right: 10px;
 }
