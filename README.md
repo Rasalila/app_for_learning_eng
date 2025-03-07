@@ -5,8 +5,8 @@
 Технологии:
 HTML, CSS, JS, React
 
-![pic](./src/assets/images/card.jpg)
-![pic](./src/assets/images/list.jpg)
+![pic](./src/assets/images/card.png)
+![pic](./src/assets/images/list.png)
 
 Постановка задачи:
 
