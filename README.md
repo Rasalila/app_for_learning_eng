@@ -1,6 +1,12 @@
-# app_for_learning_eng
+# app_for_learning_eng. React
 
 Приложение для изучения иностранных слов по карточкам.
+
+Технологии:
+HTML, CSS, JS, React
+
+![pic](./src/assets/images/card.jpg)
+![pic](./src/assets/images/list.jpg)
 
 Постановка задачи:
 
